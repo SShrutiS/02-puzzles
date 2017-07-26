@@ -1,0 +1,29 @@
+[1m[1;34mComparable#methods[0m[0m: <  <=  >  >=  between?  clamp
+[1m[1;34mString#methods[0m[0m: 
+  %            chop            getbyte       reverse      succ!              
+  *            chop!           gsub          reverse!     sum                
+  +            chr             gsub!         rindex       swapcase           
+  +@           clear           hash          rjust        swapcase!          
+  -@           codepoints      hex           rpartition   to_c               
+  <<           concat          include?      rstrip       to_f               
+  <=>          count           index         rstrip!      to_i               
+  ==           crypt           insert        scan         to_r               
+  ===          delete          inspect       scrub        to_s               
+  =~           delete!         intern        scrub!       to_str             
+  []           downcase        length        setbyte      to_sym             
+  []=          downcase!       lines         shellescape  tr                 
+  ascii_only?  dump            ljust         shellsplit   tr!                
+  b            each_byte       lstrip        size         tr_s               
+  bytes        each_char       lstrip!       slice        tr_s!              
+  bytesize     each_codepoint  match         slice!       unicode_normalize  
+  byteslice    each_line       match?        split        unicode_normalize! 
+  capitalize   empty?          next          squeeze      unicode_normalized?
+  capitalize!  encode          next!         squeeze!     unpack             
+  casecmp      encode!         oct           start_with?  unpack1            
+  casecmp?     encoding        ord           strip        upcase             
+  center       end_with?       partition     strip!       upcase!            
+  chars        eql?            prepend       sub          upto               
+  chomp        force_encoding  pretty_print  sub!         valid_encoding?    
+  chomp!       freeze          replace       succ       
+[1m[1;34mself.methods[0m[0m: __pry__
+[1m[1;34mlocals[0m[0m: _  __  _dir_  _ex_  _file_  _in_  _out_  _pry_
